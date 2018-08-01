@@ -1,0 +1,15 @@
+/* defining height and border of article element*/
+article{
+    border: 1px solid black;
+    height: 100px;
+    line-height: 100px;
+    text-align: left;
+    
+  
+}
+/*defining height,width and alignment of the logo image*/
+article img{
+    width: 50px;
+    height: 50px;
+  vertical-align: middle;
+}
